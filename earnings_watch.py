@@ -37,7 +37,7 @@ from datetime import datetime, timezone
 import requests
 
 # --- EDIT THIS: SEC requires a real contact string in the User-Agent ---
-USER_AGENT = "Aidan (personal earnings tracker) replace-with-your-email@example.com"
+USER_AGENT = "Aidan Cloud13shulk14@gmail.com"
 HEADERS = {"User-Agent": USER_AGENT}
 
 # Your current/followed names — edit freely. Used when you run the script
